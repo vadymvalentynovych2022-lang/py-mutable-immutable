@@ -29,3 +29,4 @@ for item in all_variables:
     else:
         sorted_variables["immutable"].append(item)
 print(sorted_variables)
+
